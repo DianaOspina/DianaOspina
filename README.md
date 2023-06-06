@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Diana</h1>
-<h3 align="center">A data analyst passionate about data visualizations!</h3>
+<h3 align="center">A data analyst passionate about visualizations!</h3>
 
 - 🤓 I’m currently learning **Chat GPt prompts for queries**
 
