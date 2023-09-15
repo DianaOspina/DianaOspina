@@ -17,6 +17,9 @@
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://www.linkedin.com/in/ospinadiana/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ospinadiana/" height="30" width="40" /></a>
+<a href="https://public.tableau.com/app/profile/diana.ospina" target="blank"> <img align="center" 
+src="https://dwglogo.com/wp-content/uploads/2016/07/1300px_Tableau_Software_logo.png" alt="ta" width="65" height="50" 
+alt="ta" height="50" width="70"/> </a>     
 </p>
 
 <h3 align="center">Languages and Tools:</h3>
