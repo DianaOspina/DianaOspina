@@ -11,7 +11,6 @@
 
 - 📄 Learn about my experience [https://www.linkedin.com/in/ospinadiana](https://www.linkedin.com/in/ospinadiana)
 
-- 📫 Reach me at dianaospina0124@gmail.com
 
 
 <h3 align="center">Connect with me:</h3>
@@ -19,7 +18,10 @@
 <a href="https://www.linkedin.com/in/ospinadiana/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ospinadiana/" height="30" width="40" /></a>
 <a href="https://public.tableau.com/app/profile/diana.ospina" target="blank"> <img align="center" 
 src="https://dwglogo.com/wp-content/uploads/2016/07/1300px_Tableau_Software_logo.png" alt="ta" width="65" height="50" 
-alt="ta" height="50" width="70"/> </a>     
+alt="ta" height="50" width="70"/> </a> 
+<a href="https://dianaospina0124@gmail.com" target="blank"> <img align="center" 
+src="https://upload.wikimedia.org/wikipedia/commons/8/8c/Gmail_Icon_%282013-2020%29.svg" 
+alt="ta" height="30" width="40"/> </a> 
 </p>
 
 <h3 align="center">Languages and Tools:</h3>
