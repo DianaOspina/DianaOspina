@@ -19,7 +19,7 @@
 <a href="https://public.tableau.com/app/profile/diana.ospina" target="blank"> <img align="center" 
 src="https://dwglogo.com/wp-content/uploads/2016/07/1300px_Tableau_Software_logo.png" 
 alt="tableau" height="50" width="70"/> </a> 
-<a href="https://dianaospina0124@gmail.com" target="blank"> <img align="center" 
+<a href="mailto:dianaospina0124@gmail.com" target="blank"> <img align="center" 
 src="https://upload.wikimedia.org/wikipedia/commons/8/8c/Gmail_Icon_%282013-2020%29.svg" 
 alt="gmail" height="30" width="40"/> </a> 
 </p>
